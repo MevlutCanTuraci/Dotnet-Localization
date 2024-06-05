@@ -1,0 +1,11 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Merhaba!",
+    
+    "Hi": "Selam!",
+    "Hi=Comments": "Resx görünümünde görünecek olan yorum satırı bu şekilde tanımlanır"
+  },
+
+  "Whatsup": "N'aber",
+  "Whatsup=Comments": "Resx görünümünde görünecek olan yorum satırı bu şekilde tanımlanır"
+}

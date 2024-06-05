@@ -1,0 +1,22 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Hallo!",
+    "Welcome": "Willkommen",
+
+    "Hi": "Hi!",
+    "Hi=Comments": "Kommentarzeile, die im Resx-Modus angezeigt wird"
+  },
+
+  "Navbar Group": {
+    "Change Language Text": "Sprache ändern"
+  },
+
+  "Languages Text": {
+    "Lang:TR": "Türkçe",
+    "Lang:EN": "English",
+    "Lang:DE": "Deutsch"
+  },
+
+  "Whatsup": "Was geht ab",
+  "Whatsup=Comments": "Kommentarzeile, die im Resx-Modus angezeigt wird"
+}

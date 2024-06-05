@@ -1,0 +1,11 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Hello!",
+
+    "Hi": "Hi!",
+    "Hi=Comments": "This is how a comment line, which will appear in the Resx view, is defined."
+  },
+
+  "Whatsup": "What's up?",
+  "Whatsup=Comments": "This is how a comment line, which will appear in the Resx view, is defined."
+}

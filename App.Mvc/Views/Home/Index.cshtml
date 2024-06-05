@@ -1,0 +1,67 @@
+﻿@using App.Mvc.Infrastructer.Helper.Localize
+@inject ILocalize _l; 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@_l["Welcome"]</h1>
+    
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Key</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>
+                    Hello
+                </td>
+                <td>
+                    @_l["Hello"]
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Hi
+                </td>
+                <td>
+                    @_l["Hi"]
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Welcome
+                </td>
+                <td>
+                    @_l["Welcome"]
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Whatsup
+                </td>
+                <td>
+                    @_l["Whatsup"]
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Change Language Text
+                </td>
+                <td>
+                    @_l["Change Language Text"]
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>

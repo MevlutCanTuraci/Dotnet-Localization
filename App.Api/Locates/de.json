@@ -1,0 +1,11 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Hallo!",
+  
+    "Hi": "Hallo! / Hi!",
+    "Hi=Comments": "So wird eine Kommentarzeile definiert, die im Resx-Ansicht angezeigt wird."
+  },
+ 
+  "Whatsup": "Was ist los?",
+  "Whatsup=Comments": "So wird eine Kommentarzeile definiert, die im Resx-Ansicht angezeigt wird."
+}

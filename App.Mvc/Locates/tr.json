@@ -1,0 +1,22 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Merhaba!",
+    "Welcome": "Hoşgeldiniz",
+
+    "Hi": "Selam!",
+    "Hi=Comments": "Resx görünümünde görünecek olan yorum satırı bu şekilde tanımlanır"
+  },
+
+  "Navbar Group": {
+    "Change Language Text": "Dil Değiştir"
+  },
+
+  "Languages Text": {
+    "Lang:TR": "Türkçe",
+    "Lang:EN": "English",
+    "Lang:DE": "Deutsch"
+  },
+
+  "Whatsup": "N'aber",
+  "Whatsup=Comments": "Resx görünümünde görünecek olan yorum satırı bu şekilde tanımlanır"
+}

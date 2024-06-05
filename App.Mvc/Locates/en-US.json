@@ -1,0 +1,22 @@
+﻿{
+  "Home Controller Group": {
+    "Hello": "Hello!",
+    "Welcome": "Welcome",
+
+    "Hi": "Hi!",
+    "Hi=Comments": "Comment line to appear in Resx view"
+  },
+
+  "Navbar Group": {
+    "Change Language Text": "Change Language"
+  },
+
+  "Languages Text": {
+    "Lang:TR": "Türkçe",
+    "Lang:EN": "English",
+    "Lang:DE": "Deutsch"
+  },
+
+  "Whatsup": "What's up",
+  "Whatsup=Comments": "Comment line to appear in Resx view"
+}
